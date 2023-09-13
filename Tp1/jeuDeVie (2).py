@@ -1,6 +1,3 @@
-#Auteur : Mohammad taleb , Nehmat Haidar Ahmad , Jad Haidar Ahmad
-#Date de creation : 26 Mars 2021
-#
 #ce programme cree une jeu appelle jeu de la vie à “0 joueur”, d’une grille 
 #à deux dimensions dont les cases représentent des cellules qui peuvent 
 #prendre deux états distincts : « vivante » ou « mortes ». Une cellule 
