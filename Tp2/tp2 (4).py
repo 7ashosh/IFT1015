@@ -1,13 +1,11 @@
-# Auteur: Mohammad Taleb , Jad Haidar Ahmad , Nehmat Haidar Ahmad
-# Date de creation :  28 avril 2021
 #####
-#ce programmeimplante un jeu qui s’exécute dans l'environnement du
-#navigateur web. Ce jeu consiste à trouver les nombres associés à cinq 
+#ce programmeimplante un jeu qui sâ€™exÃ©cute dans l'environnement du
+#navigateur web. Ce jeu consiste Ã  trouver les nombres associÃ©s Ã  cinq 
 #symboles remplissant une grille 5 par 5 qui permettent de donner comme 
-#sommes les valeurs affichées au bout de chacune des rangées et de chacune 
+#sommes les valeurs affichÃ©es au bout de chacune des rangÃ©es et de chacune 
 #des colonnes. Le joueur gagne lorsque la bonne combinaison de 5 nombres est 
-#retrouvée. Si les assignations partielles aux symboles ne peuvent pas former 
-#les sommes demandées, le joueur perd.
+#retrouvÃ©e. Si les assignations partielles aux symboles ne peuvent pas former 
+#les sommes demandÃ©es, le joueur perd.
 #####
 import functools
 
